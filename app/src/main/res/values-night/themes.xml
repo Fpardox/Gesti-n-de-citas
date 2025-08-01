@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.MiPrimeraApp" parent="Theme.Material3.Light">
+    </style>
+
+    <style name="Theme.MiPrimeraApp" parent="Base.Theme.MiPrimeraApp" />
+</resources>
